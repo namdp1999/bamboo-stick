@@ -803,7 +803,8 @@ a:focus {
 .button .btn2 {
   color: #ffff;
   border: solid 2px var(--primary-color);
-  background-color: var(--primary-color)
+  background-color: var(--primary-color);
+  display: inline-block;
 }
 
 .button .btn2:hover {
@@ -2497,7 +2498,7 @@ article.post .content-post .more-link a:hover {
 }
 
 .list-footer .footer-item {
-  width: 25%
+  width: 50%;
 }
 
 .list-footer .widgets-about {
@@ -3033,4 +3034,8 @@ article.post .content-post .more-link a:hover {
 #header .header-wrap-home1 .nav-wrap {
   float: none;
   justify-content: center;
+}
+
+.flat-about {
+  margin-bottom: 60px;
 }

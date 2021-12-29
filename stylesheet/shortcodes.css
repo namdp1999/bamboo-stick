@@ -286,7 +286,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
-  margin: 55px 0 73px
+  margin: 30px 0 40px;
 }
 
 .about-content {
@@ -340,7 +340,7 @@
 }
 
 .about-desc {
-  width: 50%
+  width: 100%
 }
 
 .flat-about .about-desc p {
@@ -349,8 +349,6 @@
 }
 
 .about-box-nd1 {
-  height: 70.63px;
-  width: 260.32px;
   display: flex;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -870,7 +868,7 @@
   background-image: url(../images/mask-back-ground/mask-about2nd.png);
   background-repeat: no-repeat;
   background-position: center;
-  padding: 120px 38.4% 202px 0;
+  padding: 60px 38.4% 60px 0;
   margin-left: -.4%
 }
 
